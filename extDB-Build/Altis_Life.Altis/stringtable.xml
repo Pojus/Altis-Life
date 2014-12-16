@@ -3,48 +3,63 @@
 	<Package name="Shop_Names">
 		<Key ID="STR_Shops_Market">
 			<Original>Altis Market</Original>
+			<Italian>Mercato</Italian>
 		</Key>
 		<Key ID="STR_Shops_Rebel">
 			<Original>Rebel Market</Original>
+			<Italian>Mercato Ribelle</Italian>
 		</Key>
 		<Key ID="STR_Shops_Gang">
 			<Original>Gang Market</Original>
+			<Italian>Mercato Gang</Italian>
 		</Key>
 		<Key ID="STR_Shops_Wongs">
 			<Original>Wong's Food Cart</Original>
+			<Italian>Alimentari</Italian>
 		</Key>
 		<Key ID="STR_Shops_Coffee">
 			<Original>Gyro's Coffee</Original>
+			<Italian>Caffè</Italian>
 		</Key>
 		<Key ID="STR_Shops_DrugDealer">
 			<Original>Tonic's Narcotics</Original>
+			<Italian>Spacciatore</Italian>
 		</Key>
 		<Key ID="STR_Shops_Oil">
 			<Original>Oil Trader</Original>
+			<Italian>Vendita Petrolio</Italian>
 		</Key>
 		<Key ID="STR_Shops_FishMarket">
 			<Original>Local Fish Market</Original>
+			<Italian>Pescivendolo</Italian>
 		</Key>
 		<Key ID="STR_Shops_Glass">
 			<Original>Glass Trader</Original>
+			<Italian>Vendita Vetro</Italian>
 		</Key>
 		<Key ID="STR_Shops_Minerals">
 			<Original>Altis Industrial Trader</Original>
+			<Italian>Vendita materiali industriali</Italian>
 		</Key>
 		<Key ID="STR_Shops_Cop">
 			<Original>APD Item Shop</Original>
+			<Italian>Negozio Polizia</Italian>
 		</Key>
 		<Key ID="STR_Shops_Cement">
 			<Original>Juan's Cement Laying</Original>
+			<Italian>Vendita Cemento</Italian>
 		</Key>
 		<Key ID="STR_Shops_Gold">
 			<Original>Cash 4 Gold</Original>
+			<Italian>Vendita Oro</Italian>
 		</Key>
 		<Key ID="STR_Shops_Diamond">
 			<Original>Diamond Dealer</Original>
+			<Italian>Gioielleria</Italian>
 		</Key>
 		<Key ID="STR_Shops_Salt">
 			<Original>Salt Trader</Original>
+			<Italian>Vendita Sale</Italian>
 		</Key>
 	<Package name="Global">
 		<Key ID="STR_Global_Close">
